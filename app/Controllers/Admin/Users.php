@@ -8,6 +8,6 @@ class Users extends BaseController
 {
     public function index()
     {
-        echo "Ini adalah Controller Users dalam Folder Admin";
+        echo "Ini adalah Controller Users dalam Folder Admin Oke";
     }
 }
